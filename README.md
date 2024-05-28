@@ -4,3 +4,4 @@
    - post processing
    - training custome data?
 3. books to read
+4. Sleep is important to myself
